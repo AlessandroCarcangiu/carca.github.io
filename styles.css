@@ -207,6 +207,24 @@ footer {
   font-size: 0.95rem;
   flex-shrink: 0;
 }
+
+/* publications */
+.pub-list { list-style:none; padding:0; }
+.pub-item { padding:.6rem 0 1rem; border-bottom:1px solid #eee; }
+.year-divider { font-weight:700; margin:1rem 0 .25rem; color:#303030; }
+.publication-title { display:block; font-weight:700; font-size:1.05rem; }
+.publication-title-mobile { display:none; } /* classe mantenuta per coerenza con lo stile esistente */
+.publication-cite { margin-top:.25rem; }
+.publication-cite-line { display:none; } /* disattivo la linea laterale, se presente nello stile globale */
+.university { color:#444; margin:.15rem 0; }
+.pub-meta { font-size:.9em; color:#555; margin-top:.2rem }
+.tag {
+  display:inline-block; font-size:.8em; background:#eef4fa; border:1px solid #d8e6f5;
+  padding:.05rem .4rem; border-radius:999px; margin-right:.35rem;
+}
+details.bib { margin-top:.35rem; }adding:.05rem .4rem; border-radius:999px; margin-right:.35rem;
+}
+
 /* Responsive Styles */
 @media (max-width: 700px) {
   /* Show mobile publication title, hide desktop */
