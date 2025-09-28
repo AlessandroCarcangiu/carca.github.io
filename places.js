@@ -5,107 +5,163 @@ const places = [
     // Europe
   {
     name: "Bruxelles, Belgium",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 50.85045,
+    lng: 4.34878 ,
+    img: "https://cdn.pixabay.com/photo/2021/08/28/18/35/square-6581649_1280.jpg",
     desc: ""
   },
   {
     name: "Brugelette, Belgium",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 50.5951273,
+    lng: 3.8518611,
+    img: "https://cdn.pixabay.com/photo/2016/04/03/22/54/pairi-daiza-1305844_1280.jpg",
     desc: ""
   },
   {
     name: "Limassol, Cyprus",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 34.707130,
+    lng: 33.022617,
+    img: "https://cdn.pixabay.com/photo/2017/08/13/11/36/cyprus-2636914_1280.jpg",
     desc: ""
   },
   {
     name: "Paris, France",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 48.866667,
+    lng: 2.333333,
+    img: "https://cdn.pixabay.com/photo/2017/01/03/22/00/tower-1950742_1280.jpg",
     desc: ""
   },
   {
     name: "Munich, Germany",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 48.13743,
+    lng: 11.57549,
+    img: "https://cdn.pixabay.com/photo/2015/06/05/16/47/munich-798652_1280.jpg",
     desc: ""
   },
   {
     name: "London, United Kingdom",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 51.5074,
+    lng: 0.1278,
+    img: "https://cdn.pixabay.com/photo/2017/04/12/00/51/tower-2223305_1280.jpg",
     desc: ""
   },
   {
     name: "Catania, Italy",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 37.507877 ,
+    lng: 15.083030,
+    img: "https://cdn.pixabay.com/photo/2014/01/15/18/47/catania-246007_1280.jpg",
     desc: ""
   },
   {
     name: "Marostica, Italy",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 45.744499,
+    lng: 11.655650,
+    img: "https://cdn.pixabay.com/photo/2016/11/18/16/32/marostica-1835685_1280.jpg",
     desc: ""
   },
   {
     name: "Padova, Italy",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 45.406433,
+    lng: 11.876761,
+    img: "https://cdn.pixabay.com/photo/2018/09/01/15/03/padova-3646983_1280.jpg",
     desc: ""
   },
   {
-    name: ", Italy",
-    lat: 0,
-    lng: 0,
-    img: "",
+    name: "Venezia, Italy",
+    lat: 45.43713,
+    lng: 12.33265,
+    img: "https://cdn.pixabay.com/photo/2016/10/17/15/11/italy-1747913_1280.jpg",
+    desc: ""
+  },
+  {
+    name: "Roma, Italy",
+    lat: 41.902782,
+    lng: 12.496366,
+    img: "https://cdn.pixabay.com/photo/2017/07/27/13/51/rome-2545381_1280.jpg",
+    desc: ""
+  },
+  {
+    name: "Correggio, Italy",
+    lat: 44.76737,
+    lng: 10.78345,
+    img: "https://media.voloscontato.it/images/2021/06/correggio.jpg",
     desc: ""
   },
   {
     name: "Varsavia, Poland",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 40.620140,
+    lng: 14.979810,
+    img: "https://cdn.pixabay.com/photo/2013/10/18/23/37/poland-197670_1280.jpg",
     desc: ""
   },
   {
     name: "Porto, Portugal",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 41.157944,
+    lng: -8.629105,
+    img: "https://cdn.pixabay.com/photo/2017/02/08/12/45/porto-2048723_1280.jpg",
     desc: ""
   },
   {
     name: "Guimarães, Portugal",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 41.441952,
+    lng: -8.295610,
+    img: "https://cdn.pixabay.com/photo/2013/11/25/18/40/castle-218288_1280.jpg",
     desc: ""
   },
   {
     name: "Cagliari, Sardinia",
-    lat: 39.2238,
-    lng: 9.1217,
+    lat: 39.23054,
+    lng: 9.11917,
     img: "https://www.rossocorallo.info/wp-content/uploads/2019/09/hotel-panorama-cagliari-centro-in-sardegna11.jpg",
-    desc: "My hometown and university city."
+    desc: ""
   },
   {
     name: "Barcelona, Spain",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 41.3888,
+    lng: 2.1590,
+    img: "https://cdn.pixabay.com/photo/2019/12/28/11/40/barcelona-4724397_960_720.jpg",
+    desc: ""
+  },
+  {
+    name: "Edinburgh, Scotland",
+    lat: 55.95206,
+    lng: -3.19648,
+    img: "https://cdn.pixabay.com/photo/2015/07/25/07/24/castle-859331_1280.jpg",
+    desc: ""
+  },
+  {
+    name: "Aberdeen, Scotland",
+    lat: 57.149717,
+    lng: -2.094278,
+    img: "https://cdn.pixabay.com/photo/2017/09/06/11/14/aberdeen-2721029_1280.jpg",
+    desc: ""
+  },
+  {
+    name: "Inverness, Scotland",
+    lat: 57.47908,
+    lng: -4.22398,
+    img: "https://cdn.pixabay.com/photo/2016/08/20/15/49/bridge-1607823_1280.jpg",
+    desc: ""
+  },
+  {
+    name: "Portree, Scotland",
+    lat: 57.412474,
+    lng: -6.196023,
+    img: "https://cdn.pixabay.com/photo/2022/05/21/16/53/skye-7211927_1280.jpg",
+    desc: ""
+  },
+  {
+    name: "Fort William, Scotland",
+    lat: 56.819817,
+    lng: -5.105218,
+    img: "https://cdn.pixabay.com/photo/2014/01/19/15/50/scotland-248114_1280.jpg",
+    desc: ""
+  },
+  {
+    name: "Glasgow, Scotland",
+    lat: 55.86515,
+    lng: -4.25763,
+    img: "https://cdn.pixabay.com/photo/2023/01/19/00/35/glasgow-7728118_1280.jpg",
     desc: ""
   },
     // Africa
@@ -117,6 +173,20 @@ const places = [
     lng: 139.6917,
     img: "https://www.shutterstock.com/image-photo/shibuya-crossing-twilight-tokyo-japan-600nw-1608796999.jpg",
     desc: "Skyscrapers, crossing, and nightlife."
+  },
+  {
+    name: "Nikkō, Japan",
+    lat: 36.750,
+    lng: 139.617,
+    img: "https://cdn.pixabay.com/photo/2022/01/01/22/29/bridge-6909089_1280.jpg",
+    desc: ""
+  },
+  {
+    name: "Enoshima, Japan",
+    lat: 35.29953582542545,
+    lng: 139.47838848268546,
+    img: "https://cdn.pixabay.com/photo/2015/01/01/10/45/mt-fuji-585530_960_720.jpg",
+    desc: ""
   },
   {
     name: "Matsumoto, Japan",
@@ -164,9 +234,9 @@ const places = [
   // North/South America
   {
     name: "Los Angeles, United States",
-    lat: 0,
-    lng: 0,
-    img: "",
+    lat: 34.052235,
+    lng: -118.243683,
+    img: "https://cdn.pixabay.com/photo/2017/06/29/19/57/beverly-hills-hotel-2455977_1280.jpg",
     desc: ""
   },
 
