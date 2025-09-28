@@ -1,11 +1,7 @@
-# federicheddu.github.io
-My personal website.  
-It is a simple showcase of my projects and interests.
+# AlessandroCarcangiu.github.io
+MPersonal website of **Alessandro Carcangiu**.
 
-A little bit of everything, from programming to research, from music to travel.  
-I'm planning to add something about gaming and photography too.
+A compact, no-framework static site to showcase research, publications, and a few side projects.  
+It’s intentionally simple: just HTML and CSS, fast to load, easy to maintain.
 
-Usually I update the website when I am bored or when I have something new to show.  
-Maybe you will find something interesting here, maybe not. Hope you enjoy it anyway.
-
-[federicheddu.github.io](https://federicheddu.github.io)
+[AlessandroCarcangiu.github.io](https://carca.github.io)
